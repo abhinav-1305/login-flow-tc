@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>7b6d4020-3983-4855-8360-a27d1b00dde9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;showLogin(false); showLoginEvent('Login/Register', 'login',trackingEventAttributeType, 'login')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.header-btn.empty-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a59693d-7ae7-46ec-8157-835c24ad79a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-btn empty-button</value>
+      <webElementGuid>b1bf897e-35c4-44f4-9f70-50f144614a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showLogin(false); showLoginEvent('Login/Register', 'login',trackingEventAttributeType, 'login')</value>
+      <webElementGuid>68507b48-9b7f-4c5a-a09e-5ddac024cf6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Login
+            </value>
+      <webElementGuid>a9a0eb7f-1872-4fac-b2c8-9912782678d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-section d-flex justify-content-space-between align-items-center&quot;]/div[@class=&quot;header-actions&quot;]/button[@class=&quot;header-btn empty-button&quot;]</value>
+      <webElementGuid>6b27a1e4-dfd6-44c9-a5b0-39e9693e2755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_GST Billing Software Free Download  Be_a4fa79/iframe_Please enter a valid mobile number_l_e64f24</value>
+      <webElementGuid>1301b112-fd91-4f5f-8938-067230a2bd44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;showLogin(false); showLoginEvent('Login/Register', 'login',trackingEventAttributeType, 'login')&quot;]</value>
+      <webElementGuid>fd24c3b0-ae9e-4cb3-8cd6-b9f024448ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div[2]/div[3]/button</value>
+      <webElementGuid>b5bd891e-6f8d-4462-892a-71cb95c63810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/following::button[1]</value>
+      <webElementGuid>3ff97b95-a32f-40f2-9858-5eb7808d2680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Talk to Sales'])[1]/following::button[2]</value>
+      <webElementGuid>d10111f5-662f-45df-b394-e0cc1e08ad19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Free Demo'])[1]/preceding::button[1]</value>
+      <webElementGuid>f12d5748-55ff-4cc4-9a70-576658bfc645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Free Billing'])[1]/preceding::button[2]</value>
+      <webElementGuid>457280e1-1ff6-4b81-be10-9ebcbaf27284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>54908740-5449-4b49-af32-0d7cf100128c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>bb4993bf-7e6c-4be1-a9d0-f9a9d933f878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+              Login
+            ' or . = '
+              Login
+            ')]</value>
+      <webElementGuid>c83ab7c3-f611-4072-acd4-da0fe6a186fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@flobiz/web-app']/app-root/div/div/app-login/div/div/div/div/div[8]/button</value>
+      <webElementGuid>acb2b5c9-64d8-44c0-86da-a44f17b00d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter OTP'])[1]/following::button[1]</value>
+      <webElementGuid>91f1aece-f875-48b3-b6bc-354a2dd3a73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::button[1]</value>
+      <webElementGuid>3cc5abe4-6f95-43dd-a0e5-9ffafac7bccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>c68bade4-3907-4d4a-af2e-81ac0bbed49f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>81bc7f56-ddb3-4339-abca-f5a967a9ccb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

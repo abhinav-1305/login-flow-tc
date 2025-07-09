@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get OTP</name>
+   <tag></tag>
+   <elementGuidId>49d6dff5-3dcb-47c8-b363-39e960ec6a7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@flobiz/web-app']/app-root/div/div/app-login/div/div/div/div/div[5]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.primary-background</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Get OTP&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f1fe1ec0-7d2d-4719-89e8-60999b07ed1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary-background</value>
+      <webElementGuid>56781aa9-2432-499b-bf04-6d9b3f980551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get OTP</value>
+      <webElementGuid>a1680bc5-8c14-47cd-a56e-920822fc88c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@flobiz/web-app&quot;)/app-root[1]/div[@class=&quot;app-component&quot;]/div[@class=&quot;app-component-body&quot;]/app-login[1]/div[1]/div[1]/div[@class=&quot;w-100 login-container&quot;]/div[@class=&quot;login-component&quot;]/div[@class=&quot;row-4&quot;]/button[@class=&quot;primary-background&quot;]</value>
+      <webElementGuid>3ad0bc3b-f31a-4211-aad1-cffe64c9efd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_GST Billing Software Free Download  Be_a4fa79/iframe_Please enter a valid mobile number_l_e64f24</value>
+      <webElementGuid>258d6791-af28-4b41-81a6-4d822e8035e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@flobiz/web-app']/app-root/div/div/app-login/div/div/div/div/div[5]/button</value>
+      <webElementGuid>a15ed668-9e8e-4d22-bcfb-4b608de54ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zimbabwe (+263)'])[1]/following::button[1]</value>
+      <webElementGuid>29ec5975-14cd-4524-98ba-ee78548c2f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zambia (+260)'])[1]/following::button[1]</value>
+      <webElementGuid>b925fda9-a5e0-4172-bcea-41fcc6b0a8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/preceding::button[1]</value>
+      <webElementGuid>e1f55114-d1d1-4bc6-9e19-acf39c59e5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>1b7a81b9-aaaa-45c4-8fb1-cb9d638298d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Get OTP' or . = 'Get OTP')]</value>
+      <webElementGuid>6390fc6f-ca8a-4993-b2cd-c6f5feeb2fcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_GST Billing Software Free Download  Be_a4fa79/button_Login",
+      "brokenLocator": "//button[@onclick\u003d\"showLogin(false); showLoginEvent(\u0027Login/Register\u0027, \u0027login\u0027,trackingEventAttributeType, \u0027login\u0027)\"]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Login\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250709_194732"
+    }
+  ]
+}

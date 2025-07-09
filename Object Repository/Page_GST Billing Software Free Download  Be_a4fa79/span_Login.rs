@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>243bdcbd-1735-48fe-8b42-a2000ef7a473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@flobiz/web-app']/app-root/div/div/app-login/div/div/div/div/div[8]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.otp-verified-login.primary-background > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Login&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb6871f4-783a-4acd-a1d9-114fe9076bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>1ee87188-2d05-4500-b773-c83c290b684e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@flobiz/web-app&quot;)/app-root[1]/div[@class=&quot;app-component&quot;]/div[@class=&quot;app-component-body&quot;]/app-login[1]/div[1]/div[1]/div[@class=&quot;w-100 login-container&quot;]/div[@class=&quot;login-component&quot;]/div[@class=&quot;row-8&quot;]/button[@class=&quot;otp-verified-login primary-background&quot;]/span[1]</value>
+      <webElementGuid>7e757d79-1d08-4235-b952-d1eb9f6e46fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_GST Billing Software Free Download  Be_a4fa79/iframe_Please enter a valid mobile number_l_e64f24</value>
+      <webElementGuid>f06fd955-60f3-4315-b01e-f060ccfc958a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@flobiz/web-app']/app-root/div/div/app-login/div/div/div/div/div[8]/button/span</value>
+      <webElementGuid>785283aa-0539-4daa-abbf-67c56c7111bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resend OTP'])[1]/following::span[1]</value>
+      <webElementGuid>1ac849fe-9ff2-40e5-afbf-75facc99d905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter OTP'])[1]/following::span[1]</value>
+      <webElementGuid>e369411c-7d5a-478f-a5a5-dee0b0464237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::span[1]</value>
+      <webElementGuid>94046c89-6959-4168-9c97-1cc21ece84d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/preceding::span[2]</value>
+      <webElementGuid>67ba54ea-5787-4abf-aa95-98938a1faed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>017ef998-a5bb-42f7-b802-9017cb45e277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>d12326ca-512a-40f1-8ae8-409dbd1dfbd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
