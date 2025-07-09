@@ -32,4 +32,8 @@
 | OTP must be 6 digits         | OTP field must only accept exactly 6 digits                                  | Only 6 digits accepted    | Pass      |          |
 | OTP input must be numeric    | Alphabetical input in OTP field should be restricted                         | Only digits allowed       | Pass      |          |
 
+--- 
+
 The following test cases have been documented in excel sheet [here](https://docs.google.com/spreadsheets/d/11nhrYHY-EBhT6sWdex27_Df46-2VOIaUdtUAHqwWpIM/edit?gid=0#gid=0)
+
+Tool used: [Katalon Studio](https://katalon.com/)
